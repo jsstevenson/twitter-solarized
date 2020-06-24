@@ -1,0 +1,199 @@
+@-moz-document domain(twitter.com) {
+    /*** background ***/
+    main, .r-14lw9ot {
+        background: rgba(0, 43, 54, 1) !important;;
+    }
+
+    /* horizontal bar below 'whats happening' */
+    .r-e84r5y {
+        background-color: #586e75;
+    }
+
+    .r-1wbh5a2 {
+        background-color: inherit;
+    }
+
+    .r-18u37iz, r-dnmrzs, r-1udh08x {
+        background-color: transparent;
+    }
+
+    .r-obd0qt {
+        background-color: rgba(0, 43, 54, 1);
+    }
+
+    /* highlight/accent/mouseover */
+    .r-1u4rsef {
+        background-color: rgb(7, 54, 66)
+    }
+
+    /* borders */
+    .css-1dbjc4n {
+        border-top-color: rgba(88, 110, 117, .5);
+        border-bottom-color: rgba(88, 110, 117, .5);
+        border-left-color: rgba(88, 110, 117, .5);
+        border-right-color: rgba(88, 110, 117, .5);
+    }
+
+    /*** sidebar ***/
+
+    /* top left bird */
+    .r-1vvnge1 {
+        border-left-color: #000000 !important;
+    }
+
+    /* icon color */
+    .r-dnmrzs svg {
+        color: ##839496;
+    }
+
+    /* label text */
+    .r-y3t9qe > .r-ad9z0x {
+        color: #839496;
+    }
+
+    /* msg # icon */
+    svg + .r-3s2u2q {
+        color: #fdf6e3;
+        background-color: #268bd2;
+        border-right-color: transparent;
+        border-bottom-color: transparent;
+        border-left-color: transparent;
+        border-top-color: transparent;
+    }
+
+    /* WIP hover on sidebar item/icon */
+    .r-zv2cs0 {
+        background-color: rgba(88, 110, 117, .3);
+    }
+
+    /* button text */
+    .r-xoduu5 {
+        color: #fdf6e3;
+    }
+
+    /* links on sidebars etc */
+    .r-13gxpu9 {
+        color: #268bd2;
+    }
+
+    /*** mostly right hand side stuff ***/
+
+    /*** forms ***/
+    .r-e84r5y {
+        background-color: rgba(88, 110, 117, .4);
+    }
+
+    /* looking glass icon */
+    .r-6koalj > .r-1re7ezh {
+        color: #93a1a1;
+        fill: #93a1a1;
+    }
+
+    .r-homxoj::placeholder {
+        color: #93a1a1;
+    }
+
+    /*** text ***/
+    /* general text */
+    .r-hkyrab {
+        color: rgb(131, 148, 150);
+    }
+
+    /* this lives here now  */
+    .r-obd0qt {
+        background-color: inherit;
+    }
+
+    .r-1g40b8q {
+        background-color: #002b36;
+    }
+
+    /* username */
+    .r-vw2c0b {
+        color: #cb4b16;
+    }
+
+    /* handle */
+    .r-1re7ezh {
+        color: #b58900;
+    }
+
+    time {
+        color: #859900;
+    }
+
+    /* retweeted */
+    .r-1re7ezh > .r-n6v787 {
+        color: #2aa198;
+    }
+
+    .r-obd0qt > .r-1re7ezh > g {
+        fill: #2aa198;
+    }
+
+    /* "replying to" */
+    .r-4qtqp9 > .r-1re7ezh {
+        color: #d33682;
+    }
+
+    /* linked youtube content preview */
+    /* description */
+    .r-zl2h9q > .r-a023e6 {
+        color: #93a1a1;
+    }
+
+
+    /* bottom of tweet icons/menu icons */
+    .r-1awozwy > .r-xoduu5 > svg {
+        color: rgb(88, 110, 117);
+    }
+
+    .r-axxi2z {
+        color: rgb(88, 110, 117);
+    }
+
+    .r-vrwoeq {
+        background-color: #93a1a1;
+    }
+
+    /* hover on bottom icons */
+    .r-13gxpu9 > .r-xoduu5 > svg {
+        color: #d33682;
+        fill: #d33682;
+    }
+
+    .r-nw8l94 > .r-xoduu5 > svg {
+        color: #859900;
+        fill: #859900;
+    }
+
+    .r-daml9f > .r-xoduu5 > svg {
+        color: #dc322f;
+        fill: #dc322f;
+    }
+
+    .r-daml9f > .r-1udh08x > .r-n6v787 {
+        color: #dc322f;
+    }
+
+
+    /* username links in tweets */
+    .r-1n1174f {
+        color: #268bd2;
+    }
+
+    /* home/link text */
+    .r-13gxpu9 {
+        color: #268bd2
+    }
+
+    /*** mostly right hand sidebar stuff ***/
+    .r-1awozwy > .r-1re7ezh {
+        color: #cb4b16;
+    }
+
+    /*** user profiles ***/
+    .r-15d164r > .r-rs99b7 > .r-1777fci > .css-bfa6kz > .r-qvutc0 {
+        color: #fdf6e3;
+    }
+}
